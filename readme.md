@@ -2,7 +2,7 @@
 
 ![Alt text](./images/oswe-banner.png "oswe-banner")
 
-Whether your focus is driven to offensive or defensive security, it eventually becomes a team effort and I strongly believe that knowledge sharing will make your team stronger. Offensive Security is part of that team and their trainings empower students and professionals all over the world. Thankfully, they have helped empower me through a successful journey to achieve my OSWE certification!
+Whether your focus is driven to offensive or defensive security, it eventually becomes a team effort and I strongly believe that knowledge sharing will make your team stronger. Offensive Security is part of that team and their training empower students and professionals all over the world. Thankfully, they have helped empower me through a successful journey to achieve my OSWE certification!
 
 For myself, my focus has always been on the blue side of things defending Healthcare. However, what better way is there to learn how to defend your network then to learn how to find and exploit vulnerabilities yourself? Within this critical infrastructure, web applications are becoming more and more dominant which was the beacon to pull me into the course. 
 
