@@ -1,4 +1,4 @@
-# Crawling through the webs
+# OSWE Journey - Crawling through the webs
 
 ![Alt text](./images/oswe-banner.png "oswe-banner")
 
